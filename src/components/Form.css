@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+form input,
+form button,
+form select {
+  box-sizing: border-box;
+  padding: 10px 5px;
+  height: 35px;
+  margin: 0 0 5px;
+}
